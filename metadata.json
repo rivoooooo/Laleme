@@ -1,0 +1,7 @@
+{
+  "name": "Laleme (拉了么)",
+  "description": "A comprehensive poop tracker with MD3 design and bowel health insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
