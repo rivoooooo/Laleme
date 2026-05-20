@@ -3,5 +3,6 @@
   "description": "A comprehensive poop tracker with MD3 design and bowel health insights.",
   "requestFramePermissions": [
     "camera"
-  ]
+  ],
+  "majorCapabilities": []
 }
